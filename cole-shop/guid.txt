@@ -1,0 +1,3 @@
+COLE-SHOP ECOMMERCE WEBSITE
+
+npm i @chec/commerce.js @stripe/react-stripe-js @stripe/stripe-js @material-ui/core @material-ui/icons react-router-dom react-hook-form
